@@ -12,10 +12,6 @@
 
 I'm **Thisum** — a AI undergraduate passionate about building practical software and telling visual stories. When I'm not writing Python or designing databases, I'm studying cinematography techniques or watching movies
 
-- 🎬 **Passion** — Cinematography, filmmaking & visual storytelling
-- 📖 **Learning Style** — Visual learner · Video tutorials · Structured digital notes
-- 📬 **Reach me** — [thisumgmg@gmail.com](mailto:thisumgmg@gmail.com)
-
 ## 🛠️ Languages & Tools
 
 > ### 💬 Programming Languages
