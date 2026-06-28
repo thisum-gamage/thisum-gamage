@@ -19,8 +19,9 @@ I'm **Thisum** — a AI undergraduate passionate about building practical softwa
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48"/>
 &nbsp;
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48"/>
-</p> -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48"/> 
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48"/>-->
+</p> 
 
 > ### 🌐 Frontend
 
