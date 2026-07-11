@@ -1,11 +1,10 @@
 <div align="center">
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Thisum Gamage </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Thisum </h1>
 
-**`AI Undergraduate · Aspiring Cinematographer · Builder of Things`**
+**`AI Undergraduate · Aspiring Cinematographer · Music Enthusiast`**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=AI+Undergraduate+%F0%9F%A4%96;Aspiring+Cinematographer+%26+Filmmaker+%F0%9F%8E%AC;Visual+learner+%F0%9F%8E%A8" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=AI+Undergraduate+%F0%9F%A4%96;Aspiring+Cinematographer+%26+Filmmaker+%F0%9F%8E%AC;Music+Enthusiast+%F0%9F%8E%B8%F0%9F%A5%81" alt="Typing SVG" />
 </div>
 
 ## 🧑‍💻 About Me
@@ -33,11 +32,11 @@ I'm **Thisum** — a AI undergraduate passionate about building practical softwa
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="48" />
 </p>
 
-> ### ⚙️ Backend
+<!-- > ### ⚙️ Backend
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" />
-</p>
+</p> -->
 
 > ### 🗄️ Databases
 
@@ -58,8 +57,8 @@ I'm **Thisum** — a AI undergraduate passionate about building practical softwa
 <p align="center">
   <img src="https://www.svgrepo.com/show/452150/adobe-premiere.svg" alt="Premiere Pro" width="60" />
   &nbsp;
-  <img src="https://www.svgrepo.com/show/452149/adobe-photoshop.svg" alt="Photoshop" width="60" />
-  &nbsp;
+  <!-- <img src="https://www.svgrepo.com/show/452149/adobe-photoshop.svg" alt="Photoshop" width="60" />
+  &nbsp; -->
   <img src="https://www.svgrepo.com/show/452145/adobe-lightroom.svg" alt="Lightroom" width="60" />
 </p>
 
