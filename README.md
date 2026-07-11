@@ -81,7 +81,7 @@ I'm **Thisum** — a AI undergraduate passionate about building practical softwa
 </p>
 
 <p align="center">
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thisum-gamage&langs_count=8&layout=compact&cache_seconds=7200&theme=nightowl&border_radius=10" alt="Top Languages" />
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thisum-gamage&langs_count=8&layout=compact&cache_seconds=1&theme=nightowl&border_radius=10" alt="Top Languages" />
 </p>
 
 <div align="center">
