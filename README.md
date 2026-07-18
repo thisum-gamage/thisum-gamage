@@ -112,6 +112,9 @@ I'm **Thisum** — a AI undergraduate passionate about building practical softwa
 
 <div align="center">
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thisum-gamage/thisum-gamage/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
 <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 
 <br/>
