@@ -38,11 +38,11 @@ I'm **Thisum** — a AI undergraduate passionate about building practical softwa
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" />
 </p> -->
 
-> ### 🗄️ Databases
+<!-- > ### 🗄️ Databases
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" />
-</p>
+</p> -->
 
 > ### 🧰 Dev Tools
 
@@ -55,8 +55,8 @@ I'm **Thisum** — a AI undergraduate passionate about building practical softwa
 > ### 🎬 Creative Tools
 
 <p align="center">
-  <img src="https://www.svgrepo.com/show/452150/adobe-premiere.svg" alt="Premiere Pro" width="60" />
-  &nbsp;
+  <!-- <img src="https://www.svgrepo.com/show/452150/adobe-premiere.svg" alt="Premiere Pro" width="60" />
+  &nbsp; -->
   <!-- <img src="https://www.svgrepo.com/show/452149/adobe-photoshop.svg" alt="Photoshop" width="60" />
   &nbsp; -->
   <img src="https://www.svgrepo.com/show/452145/adobe-lightroom.svg" alt="Lightroom" width="60" />
