@@ -2,14 +2,14 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Thisum </h1>
 
-**`AI Undergraduate · Aspiring Cinematographer · Music Enthusiast`**
+**`AI Undergraduate · Software Developing · Aspiring Cinematographer`**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=AI+Undergraduate+%F0%9F%A4%96;Aspiring+Cinematographer+%26+Filmmaker+%F0%9F%8E%AC;Music+Enthusiast+%F0%9F%8E%B8%F0%9F%A5%81" alt="Typing SVG" />
 </div>
 
 ## 🧑‍💻 About Me
 
-I'm **Thisum** — a AI undergraduate passionate about building practical software and telling visual stories. When I'm not writing Python or designing databases, I'm studying cinematography techniques or watching movies
+I'm **Thisum** — an AI undergraduate interested in software development, artificial intelligence, and visual storytelling. I enjoy building practical software projects while developing my skills in cinematography and filmmaking.
 
 ## 🛠️ Languages & Tools
 
@@ -84,11 +84,11 @@ I'm **Thisum** — a AI undergraduate passionate about building practical softwa
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thisum-gamage&langs_count=8&layout=compact&cache_seconds=1&theme=nightowl&border_radius=10" alt="Top Languages" />
 </p>
 
-<div align="center">
+<!-- <div align="center">
 <a href="https://komarev.com/ghpvc/?username=thisum-gamage">
   <img src="https://komarev.com/ghpvc/?username=thisum-gamage&label=Profile%20Views&color=00FFFF&style=flat-square" alt="Profile Views" />
 </a>
-</div>
+</div> -->
 
 ## 🔗 Connect with Me
 
