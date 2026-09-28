@@ -76,9 +76,9 @@ I'm **Thisum** — an AI undergraduate interested in software development, artif
   <img src="https://trophy.ryglcloud.net/?username=thisum-gamage&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisum-gamage&theme=nightowl&radius=10" alt="Activity Graph" />
-</p>
+</p> -->
 
 <p align="center">
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thisum-gamage&langs_count=8&layout=compact&cache_seconds=1&theme=nightowl&border_radius=10" alt="Top Languages" />
