@@ -103,6 +103,17 @@ I'm **Thisum** — an AI undergraduate interested in software development, artif
   <a href="https://github.com/thisum-gamage" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Github.svg" alt="GitHub" width="42" />
   </a>
+&nbsp; 
+  <a href="https://www.facebook.com/share/1DTb1owVBq/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Facebook.svg" alt="Facebook" width="42" /> 
+  </a> 
+&nbsp; 
+  <a href="https://www.instagram.com/thisum_gamage?stkn=eXE0eGZ2ZzAzd3B6" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" alt="Instagram" width="42" /> 
+  </a> 
+&nbsp; <a href="https://youtube.com/@thisumgamage?si=BEPur5A0-hCLCg6Q" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="YouTube" width="42" /> 
+</a>
 </p>
 
 ## 💬 Quote
